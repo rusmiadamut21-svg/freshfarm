@@ -55,6 +55,7 @@ export default function AdminPage() {
     <main className="dashboard">
       <h1>Dashboard Admin FreshFarm</h1>
       <p>Ringkasan aktivitas penjualan hari ini</p>
+      <p>Dashboard ini membantu admin memantau aktivitas penjualan FreshFarm.</p>
 
       <section className="ringkasan">
         <div className="kartu">
